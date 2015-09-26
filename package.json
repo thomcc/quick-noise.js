@@ -1,6 +1,6 @@
 {
   "name": "quick-noise-js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Fast, public domain implementation of perlin noise.",
   "main": "index.js",
   "scripts": {
@@ -11,6 +11,14 @@
     "noise",
     "random"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thomcc/quick-noise.js.git"
+  },
   "author": "Thom Chiovoloni",
-  "license": "CC0-1.0"
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/thomcc/quick-noise.js/issues"
+  },
+  "homepage": "https://github.com/thomcc/quick-noise.js#readme"
 }
