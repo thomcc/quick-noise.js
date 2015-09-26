@@ -1,6 +1,6 @@
 # quick-noise.js
 
-Fast implementation of perlin noise.
+Fast, public domain implementation of perlin noise.
 
 Works either in the browser or as a common.js module. In the browser it's functions will be available on the `quickNoise` object.
 
