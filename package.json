@@ -1,0 +1,16 @@
+{
+  "name": "quick-noise-js",
+  "version": "1.0.0",
+  "description": "Fast implementation of perlin noise.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "perlin",
+    "noise",
+    "random"
+  ],
+  "author": "Thom Chiovoloni",
+  "license": "CC0-1.0"
+}
