@@ -1,8 +1,8 @@
 {
   "name": "quick-noise-js",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Fast, public domain implementation of perlin noise.",
-  "main": "index.js",
+  "main": "quick-noise.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
